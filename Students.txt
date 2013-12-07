@@ -1,0 +1,20 @@
+Instructions: Do NOT erase this line and leave a blank line between every student's info.
+
+Jose Gonzalez
+802091324
+21
+3.00
+Terrace, Mayaguez
+
+Jean Garcia
+802101111
+19
+3.50
+Hormigueros
+
+Juan Ortiz
+802071345
+21
+3.05
+19 Senderos del Llano
+
